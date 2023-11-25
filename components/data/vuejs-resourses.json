@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "text": "Vuejs (en)",
+    "href": "https://vuejs.org/"
+  },
+  {
+    "id": 2,
+    "text": "Vuejs (ru)",
+    "href": "https://v3.ru.vuejs.org/"
+  }
+]

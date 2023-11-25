@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "text": "JavaScript info (en)",
+    "href": "https://javascript.info/"
+  },
+  {
+    "id": 2,
+    "text": "Learn.javascript (ru)",
+    "href": "https://learn.javascript.ru/"
+  },
+  {
+    "id": 3,
+    "text": "MDN js (en)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+  },
+  {
+    "id": 3,
+    "text": "w3schools.com js (en)",
+    "href": "https://www.w3schools.com/js/default.asp"
+  }
+]

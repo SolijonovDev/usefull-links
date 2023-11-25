@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "text": "w3schools.com Html (en)",
+    "href": "https://www.w3schools.com/html/default.asp"
+  },
+  {
+    "id": 2,
+    "text": "MDN Html (en)",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+  }
+]
