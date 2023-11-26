@@ -3,7 +3,7 @@ defineProps(["href", "text"]);
 </script>
 
 <template>
-  <a :href="href" class="link" target="_blank">
+  <a :href="href" class="link" target="_blank" :title="href">
     {{ text }}
   </a>
 </template>

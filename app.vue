@@ -1,3 +1,12 @@
+<script setup>
+useHead({
+  title: 'Solijonov Qodirjon',
+  meta: [
+    { name: 'description', content: 'Amazing website' }
+  ],
+})
+</script>
+
 <template>
   <TheHeader />
   <NuxtPage />
@@ -14,9 +23,14 @@ body {
   font-size: 14px;
   margin: 0;
   padding: 0;
+  background-color: darkgray;
 }
 
 button {
   cursor: pointer;
+}
+
+a{
+  text-decoration:none;
 }
 </style>

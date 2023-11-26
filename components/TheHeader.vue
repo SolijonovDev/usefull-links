@@ -11,5 +11,8 @@
 <style lang="scss" scoped>
 .header {
   padding: 20px 0;
+  background-color: #000;
+  color:#fff;
+  margin-bottom: 20px;
 }
 </style>

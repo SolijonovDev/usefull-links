@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "text": "JavaScript info (en)",
+    "text": "javascript.info (en)",
     "href": "https://javascript.info/"
   },
   {
     "id": 2,
-    "text": "Learn.javascript (ru)",
+    "text": "learn.javascript (ru)",
     "href": "https://learn.javascript.ru/"
   },
   {
     "id": 3,
-    "text": "MDN js (en)",
+    "text": "Official website (en)",
     "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
   },
   {

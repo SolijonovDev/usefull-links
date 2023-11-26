@@ -10,12 +10,16 @@ defineProps(["title", "items"]);
         <NavLink :href="item.href" :text="item.text" />
       </template>
       <slot />
-      <!-- <a href="https://www.w3schools.com/html/default.asp">w3schools.com (en)</a> -->
     </div>
   </li>
 </template>
 
 <style lang="scss" scoped>
+.item{
+  background-color: rgba(60, 255, 20,.9);
+  padding:15px;
+  border-radius: 10px;
+}
 .title {
   font-size: 26px;
   font-weight: 600;
