@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "text": "Google C# Style Guide (en)",
+    "href": "https://google.github.io/styleguide/csharp-style.html"
+  },
+  {
+    "id": 2,
+    "text": "Google Java Style Guide (en)",
+    "href": "https://google.github.io/styleguide/javaguide.html"
+  },
+  {
+    "id": 3,
+    "text": "Google Python Style Guide (en)",
+    "href": "https://google.github.io/styleguide/pyguide.html"
+  }
+]

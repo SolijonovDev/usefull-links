@@ -8,5 +8,10 @@
     "id": 2,
     "text": "pythonforbeginners.com (en)",
     "href": "https://www.pythonforbeginners.com/"
+  },
+  {
+    "id": 3,
+    "text": "Google Python Style Guide (en)",
+    "href": "https://google.github.io/styleguide/pyguide.html"
   }
 ]

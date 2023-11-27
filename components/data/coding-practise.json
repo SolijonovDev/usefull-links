@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "text": "Codedex - start your coding adventure (en) ",
+    "href": "https://www.codedex.io/"
+  },
+  {
+    "id": 2,
+    "text": "freecodecamp (en)",
+    "href": "https://www.freecodecamp.org/"
+  },
+  {
+    "id": 3,
+    "text": "blackbirdcode (en)",
+    "href": "https://www.blackbirdcode.com/"
+  },
+  {
+    "id": 4,
+    "text": "glitch.com (en)",
+    "href": "https://glitch.com/"
+  }
+]

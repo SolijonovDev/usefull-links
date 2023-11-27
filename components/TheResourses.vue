@@ -10,6 +10,9 @@ import pythonResourses from "./data/python-resourses.json";
 import frontendHosting from "./data/frontend-hosting.json";
 import backendHosting from "./data/backend-hosting.json";
 import freeFakeApis from "./data/free-fake-apis.json";
+import codingPractise from "./data/coding-practise.json";
+import codingStyle from "./data/coding-style.json";
+import codeRepositories from "./data/code-repositories.json";
 </script>
 
 <template>
@@ -27,6 +30,9 @@ import freeFakeApis from "./data/free-fake-apis.json";
       <ListItem title="Free fake apis" :items="freeFakeApis" />
       <ListItem title="Frontend Hosting Websites" :items="frontendHosting" />
       <ListItem title="Backend Server hosting" :items="backendHosting" />
+      <ListItem title="Coding practise for beginners" :items="codingPractise" />
+      <ListItem title="Coding style" :items="codingStyle" />
+      <ListItem title="Code repositories" :items="codeRepositories" />
     </ul>
   </div>
 </template>

@@ -1,7 +1,7 @@
 <script setup>
 useHead({
-  title: "Solijonov Qodirjon",
-  meta: [{ name: "description", content: "Amazing website" }],
+  title: "Useful websites every web developer should know",
+  meta: [{ name: "description", content: "Useful websites every web developer should know" }],
 });
 </script>
 
