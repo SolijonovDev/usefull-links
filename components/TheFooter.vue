@@ -3,7 +3,7 @@
 <template>
   <header class="header">
     <TheContainer>
-      <h1>Usefull links</h1>
+      <h4>2023 &copy; All right reserved</h4>
     </TheContainer>
   </header>
 </template>
@@ -13,6 +13,6 @@
   padding: 20px 0;
   background-color: #000;
   color: #fff;
-  margin-bottom: 20px;
+  margin-top: 20px;
 }
 </style>

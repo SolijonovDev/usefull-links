@@ -9,6 +9,7 @@ import nodejsResourses from "./data/nodejs-resourses.json";
 import pythonResourses from "./data/python-resourses.json";
 import frontendHosting from "./data/frontend-hosting.json";
 import backendHosting from "./data/backend-hosting.json";
+import freeFakeApis from "./data/free-fake-apis.json";
 </script>
 
 <template>
@@ -23,6 +24,7 @@ import backendHosting from "./data/backend-hosting.json";
       <ListItem title="Angularjs" :items="nodejsResourses" />
       <ListItem title="Nodejs" :items="nodejsResourses" />
       <ListItem title="Python" :items="pythonResourses" />
+      <ListItem title="Free fake apis" :items="freeFakeApis" />
       <ListItem title="Frontend Hosting Websites" :items="frontendHosting" />
       <ListItem title="Backend Server hosting" :items="backendHosting" />
     </ul>
@@ -32,8 +34,26 @@ import backendHosting from "./data/backend-hosting.json";
 <style lang="scss" scoped>
 .items {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  grid-gap: 20px;
+  grid-template-columns: repeat(1, 1fr);
+  grid-gap: 10px;
+
+  @media (min-width: 500px) {
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 15px;
+  }
+
+  @media (min-width: 720px) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  @media (min-width: 950px) {
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;
+  }
+
+  @media (min-width: 1200px) {
+    grid-template-columns: repeat(5, 1fr);
+  }
 }
 ul,
 li {

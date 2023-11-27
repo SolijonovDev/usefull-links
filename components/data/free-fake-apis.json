@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "text": "{JSON} Placeholder",
+    "href": "https://jsonplaceholder.typicode.com/"
+  },
+  {
+    "id": 2,
+    "text": "Fake Store API",
+    "href": "https://fakestoreapi.com/"
+  },
+  {
+    "id": 3,
+    "text": "Reqres",
+    "href": "https://reqres.in/"
+  },
+  {
+    "id": 4,
+    "text": "Mockaroo",
+    "href": "https://www.mockaroo.com/"
+  },
+  {
+    "id": 5,
+    "text": "DummyJSON",
+    "href": "https://dummyjson.com/"
+  }
+]

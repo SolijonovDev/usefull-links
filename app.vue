@@ -1,15 +1,14 @@
 <script setup>
 useHead({
-  title: 'Solijonov Qodirjon',
-  meta: [
-    { name: 'description', content: 'Amazing website' }
-  ],
-})
+  title: "Solijonov Qodirjon",
+  meta: [{ name: "description", content: "Amazing website" }],
+});
 </script>
 
 <template>
   <TheHeader />
   <NuxtPage />
+  <TheFooter />
 </template>
 
 <style>
@@ -30,7 +29,7 @@ button {
   cursor: pointer;
 }
 
-a{
-  text-decoration:none;
+a {
+  text-decoration: none;
 }
 </style>
