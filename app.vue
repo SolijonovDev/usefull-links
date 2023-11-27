@@ -1,7 +1,12 @@
 <script setup>
 useHead({
   title: "Useful websites every web developer should know",
-  meta: [{ name: "description", content: "Useful websites every web developer should know" }],
+  meta: [
+    {
+      name: "description",
+      content: "Useful websites every web developer should know",
+    },
+  ],
 });
 </script>
 
